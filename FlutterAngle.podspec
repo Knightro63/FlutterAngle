@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FlutterAngle'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'Flutters Almost Native Graphics Layer Engine is made by google to use OpenGL ES API calls to one of the hardware-supported APIs available for that platform.'
   
   s.description      = <<-DESC
