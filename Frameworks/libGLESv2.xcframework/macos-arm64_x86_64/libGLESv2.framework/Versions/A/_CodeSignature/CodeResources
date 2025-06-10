@@ -6,11 +6,6 @@
 	<dict/>
 	<key>files2</key>
 	<dict>
-		<key>A</key>
-		<dict>
-			<key>symlink</key>
-			<string>A</string>
-		</dict>
 		<key>Headers/GLES/gl.h</key>
 		<dict>
 			<key>hash</key>
@@ -181,6 +176,15 @@
 			<key>cdhash</key>
 			<data>
 			ECN7B5vYcaBCwJronFXWc+vIg9I=
+			</data>
+			<key>requirement</key>
+			<string>identifier libGLESv2 and certificate root = H"885ef6b6ae30d0cc3d60da88decad6f99d29160b"</string>
+		</dict>
+		<key>libGLESv2.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			7GMhN8QbEYo3CqHqxwNytWqK/gk=
 			</data>
 			<key>requirement</key>
 			<string>identifier libGLESv2 and certificate root = H"885ef6b6ae30d0cc3d60da88decad6f99d29160b"</string>

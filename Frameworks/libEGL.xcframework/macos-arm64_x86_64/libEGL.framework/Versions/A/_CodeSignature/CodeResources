@@ -67,6 +67,15 @@
 			Ac2g4I3Dv2Gd6oM1Y0mBdEOgy1aOFhQAgGJOc7SNUxA=
 			</data>
 		</dict>
+		<key>libEGL.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			+YE+ucmD23JzcNv0G9Io6fr2Fgc=
+			</data>
+			<key>requirement</key>
+			<string>identifier libEGL and certificate root = H"885ef6b6ae30d0cc3d60da88decad6f99d29160b"</string>
+		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>

@@ -110,7 +110,7 @@
 		</data>
 		<key>macos-arm64_x86_64/libEGL.framework/Versions/A/.DS_Store</key>
 		<data>
-		oBQJReLWgAX2cyEGOT/5oCtcgNc=
+		4S4NSytA9VL9Ha64UBaU/h2VTTE=
 		</data>
 		<key>macos-arm64_x86_64/libEGL.framework/Versions/A/Headers/.DS_Store</key>
 		<data>
@@ -150,11 +150,15 @@
 		</data>
 		<key>macos-arm64_x86_64/libEGL.framework/Versions/A/_CodeSignature/CodeResources</key>
 		<data>
-		R9oMByI6Y5+TuZbxzf08XIVYvMk=
+		C8BpQNQbv3WeSqTHjZwr9WMhwgE=
 		</data>
 		<key>macos-arm64_x86_64/libEGL.framework/Versions/A/libEGL</key>
 		<data>
-		mGrGaJyRl51YklwNPeizXkWL4Ko=
+		75Wbt+ru8PN5G0MexPHBDQdNcpQ=
+		</data>
+		<key>macos-arm64_x86_64/libEGL.framework/Versions/A/libEGL.dylib</key>
+		<data>
+		k6v5qSYxwCPS41pMWjJ9kCqmV0I=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -464,22 +468,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			R9oMByI6Y5+TuZbxzf08XIVYvMk=
+			C8BpQNQbv3WeSqTHjZwr9WMhwgE=
 			</data>
 			<key>hash2</key>
 			<data>
-			gHi7YZVoPG9L7CLBZ5QVgwvvUgZTKOBQ0qD5klR4soQ=
+			zhpM443Nr6Gdo0ayrDQrEUlfxcgtSRDTWNCIratDme8=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/libEGL.framework/Versions/A/libEGL</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mGrGaJyRl51YklwNPeizXkWL4Ko=
+			75Wbt+ru8PN5G0MexPHBDQdNcpQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			TSAY561QzQa4uGGQyzXH90IX6AcGZCY23ibKo+INgfY=
+			YZYAvXWQGH6GwovL5TUTQ5/7x25rVDdSd3gr7Qih72M=
+			</data>
+		</dict>
+		<key>macos-arm64_x86_64/libEGL.framework/Versions/A/libEGL.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			k6v5qSYxwCPS41pMWjJ9kCqmV0I=
+			</data>
+			<key>hash2</key>
+			<data>
+			Zf5Jt+Zy1CtlBizhbK0KuAFC6zzI1IsMfi5zgmVWmic=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/libEGL.framework/Versions/Current</key>
