@@ -20,6 +20,16 @@ it, simply add the following line to your Podfile:
 pod 'FlutterAngle'
 ```
 
+## SPM
+
+To make sure symlinks get preserved you need to use the y flag (-y).
+
+zip -r -y libEGL.xcframework.zip libEGL.xcframework
+zip -r -y libGLESv2.xcframework.zip libGLESv2.xcframework
+
+swift package compute-checksum libEGL.xcframework.zip
+swift package compute-checksum libGLESv2.xcframework.zip
+
 ## Author
 
 Knightro63, https://github.com/Knightro63
